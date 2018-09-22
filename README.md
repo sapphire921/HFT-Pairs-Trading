@@ -6,4 +6,4 @@ I develop an intraday high frequency pairs trading strategy based on mean revert
 
 If you are interested in this high frequency pairs trading strategy or have any question, please feel free to contact me at zx724@nyu.edu.
 
-Sherry (x1matrix)
+Sherry
